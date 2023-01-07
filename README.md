@@ -16,7 +16,7 @@
 | 5. (01/13/23) Side Effects & Data Fetching     |  [Notes](https://docs.google.com/document/d/1EbmXfu432Jyyz5p0xNqMHCpoUpbPi80rnzUthJnEhRU/edit#bookmark=id.c2ylqc4vikay)     |   [Video](#)     |   [Starter](#)      |   [Solution](#), [useEffect cleanup demo](https://codesandbox.io/s/useeffect-cleanup-ig17kd?file=/src/Timer.js)       |
 | 6. (01/17/23) PATCH & DELETE     |   [Notes](https://docs.google.com/document/d/1EbmXfu432Jyyz5p0xNqMHCpoUpbPi80rnzUthJnEhRU/edit#bookmark=id.wt5i3c5f41d9)    |   [Video](#)     |    [Starter](#)     |   [Solution](#)       |
 | 7. (01/20/23) Client-Side Routing     |   [Notes](https://docs.google.com/document/d/1EbmXfu432Jyyz5p0xNqMHCpoUpbPi80rnzUthJnEhRU/edit#bookmark=kix.6dlvxf2ydepe)    |    [Video](#)    |   [Starter](#)      |    [Solution](#)      |
-| 8. (01/23/23) Styled Components    |    [Video](#)    |   [Starter](#)      |    [Solution](#)      |
+| 8. (01/23/23) Styled Components    |               |    [Video](#)    |   [Starter](#)      |    [Solution](#)      |
 
 ## 1: Components and Props
 ### SWBATs:
