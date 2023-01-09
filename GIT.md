@@ -63,7 +63,7 @@ Say these events happen in this order:
 
 1. Your lecturer sends out a message in Slack notifying the class that starter code is ready to fetch and merge before lecture. 
 2. You go through the steps above and pull down the updated code to your machine. 
-3. You start taking some notes there and attempting to solve problems in the starter code.
+3. You start taking some notes there and attempt to solve problems in the starter code.
 4. The lecturer notices something in the lecture code that they want to change and pushes another commit to the lecture repo.
 
 In this case, going through the `fetch & merge` and `git pull` workflow may result in what's called a merge conflict. The safest thing to do in this situation is to run `git stash` locally to hide your changes in your local repository so that the `pull` from GitHub goes off without a hitch. You can still view the code within your stash within VSCode and you can even return it to your machine with `git stash pop` if you like.
